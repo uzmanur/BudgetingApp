@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Budgeting App</string>
+
+    <string name="see_budgets">See your budgets</string>
+    <string name="log_transaction">Log a transaction</string>
+    <string name="see_transactions">See all transactions</string>
+    <string name="create_category">Create a category</string>
+    <string name="edit_categories">Edit your categories</string>
+    <string name="title_activity_see_budgets">SeeBudgets</string>
+    <string name="title_activity_log_transaction">LogTransaction</string>
+
+</resources>
